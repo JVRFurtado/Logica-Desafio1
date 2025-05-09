@@ -32,15 +32,13 @@ O Herói de nome Zéca o Urubu está no nível Radiante
 ```
 
 ## 📂 Arquivos
-<ul>
-  <li>index.js — Código-fonte principal contendo a lógica do classificador.</li>
-</ul>
+
+  * index.js — Código-fonte principal contendo a lógica do classificador.
 
 ## 🛠️ Tecnologias utilizadas
-<ul>
-  <li>JavaScript (Node.js)</li>
-  <li>VSCode (Editor de Código)</li>
-</ul>
+
+  * JavaScript (Node.js)
+  * VSCode (Editor de Código)
 
 ## 👨‍🎓 Autor
 
